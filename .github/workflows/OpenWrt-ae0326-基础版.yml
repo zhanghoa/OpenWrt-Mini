@@ -156,7 +156,7 @@ jobs:
         echo "OpenWrt-ae0326-基础版（支持ipv6）" >> release.txt
         echo "默认地址：192.168.1.1" >> release.txt
         echo "默认密码：无密码" >> release.txt
-        echo "包含插件：ShadowSocksR Plus+" >> release.txt
+        #echo "包含插件：ShadowSocksR Plus+" >> release.txt
         echo "status=success" >> $GITHUB_OUTPUT
 
     - name: 发布新版固件
