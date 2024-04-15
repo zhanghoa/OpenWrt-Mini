@@ -15,7 +15,7 @@ env:
   FEEDS_CONF: feeds.conf.default
   CONFIG_FILE: x86-istore版.config
   DIY_P1_SH: DIY-1.sh
-  DIY_P2_SH: DIY-2.sh
+  DIY_P2_SH: DIY-X86.sh
   UPLOAD_FIRMWARE: true
   UPLOAD_RELEASE: true
   TZ: Asia/Shanghai
